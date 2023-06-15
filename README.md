@@ -2,7 +2,7 @@
 [Requirements]
 
 Visual Studio Version:
-- Visual Studio Community 2022 and up.
+- Visual Studio Community 2022 or latest
 
 Workloads:
 - ASP.NET and web development
