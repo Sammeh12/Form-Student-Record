@@ -1,0 +1,10 @@
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\bin\Debug\FrmStudentRecord.exe.config
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\bin\Debug\FrmStudentRecord.exe
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\bin\Debug\FrmStudentRecord.pdb
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.csproj.AssemblyReference.cache
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.Properties.Resources.resources
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.csproj.GenerateResource.cache
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.csproj.CoreCompileInputs.cache
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.exe
+C:\Users\GAMAY\source\repos\FrmStudentRecord\FrmStudentRecord\obj\Debug\FrmStudentRecord.pdb
